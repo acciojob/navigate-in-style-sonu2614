@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+nav{
+	background:#D3D3D3;
+	padding:10px;
+	display:inline;
+	margin-right:1rem;
+}
+li{
+	list-style:none;
+}
