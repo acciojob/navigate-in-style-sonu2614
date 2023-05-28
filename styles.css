@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 .item{
 	display:inline;
-	padding:10px;
 	margin-right:1rem;
 	
 }
 
 nav{
 	background:#D3D3D3;
+	padding:10px;
 }
